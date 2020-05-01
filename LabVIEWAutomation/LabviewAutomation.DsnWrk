@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=DisplayBoard\DisplayBoard.PrjPcb
 [Project2]
 ProjectPath=RelayBoard\RelayBoard.PrjPcb
+[Project3]
+ProjectPath=ButtonBoard\ButtonBoard.PrjPcb
