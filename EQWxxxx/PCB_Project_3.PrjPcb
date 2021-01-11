@@ -32,7 +32,10 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=1A39A0A2-B5B7-4B80-8E4E-940915B3EA8B
+VaultGUID=EA6EE86C-0F0B-48AD-ADE3-F8C457FB93E3
+ReleaseVaultName=ICON Fitness
+ItemGUID=1A39A0A2-B5B7-4B80-8E4E-940915B3EA8B
 IncludeDesignInRelease=0
 
 [Preferences]
